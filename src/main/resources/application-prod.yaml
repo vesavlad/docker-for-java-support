@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/docker4j
+    password: prod_password
+    username: prod_user
+  flyway:
+    enabled: true

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Full Application Starter" type="CompoundRunConfigurationType">
+    <toRun name="Docker4J Postgres Docker" type="docker-deploy" />
+    <toRun name="Angular Debug" type="JavascriptDebugType" />
+    <toRun name="Docker4J UI" type="js.build_tools.npm" />
+    <toRun name="Docker4J BE" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

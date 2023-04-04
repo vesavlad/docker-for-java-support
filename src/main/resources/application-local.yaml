@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:3132/docker4j
+    password: local_super_SECR3t
+    username: puser
+  flyway:
+    enabled: true

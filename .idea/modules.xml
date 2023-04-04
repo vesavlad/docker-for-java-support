@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/angular.iml" filepath="$PROJECT_DIR$/src/main/angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker4j.iml" filepath="$PROJECT_DIR$/docker4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/angular/ui-docker4j.iml" filepath="$PROJECT_DIR$/src/main/angular/ui-docker4j.iml" />
+    </modules>
+  </component>
+</project>

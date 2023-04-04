@@ -1,0 +1,8 @@
+spring:
+  flyway:
+    locations: "classpath:db/flyway"
+    enabled: false
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: validate
